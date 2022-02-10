@@ -130,8 +130,6 @@
            outputValue: 'nok',
            trueOrFalse: '',
            multipleCurrency: ''
-           
-           
          }
       },
 
