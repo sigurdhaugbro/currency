@@ -1,0 +1,11 @@
+:root {
+	--background: white;
+	--color: black;
+	--main-color: #528dff;
+	--faded-text-color: #737373;
+
+	--font-family: "roboto mono";
+	--font-size-small: 35px;
+	--font-size-medium: 50px;
+	--font-size-large: 60px;
+}
