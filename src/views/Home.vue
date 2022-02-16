@@ -158,13 +158,8 @@
             this.trueOrFalse = true;
          }
          console.log(this.trueOrFalse)
-
       }
-
    }
-
-   
-
 }
 
 </script>
