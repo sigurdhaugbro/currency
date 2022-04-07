@@ -136,6 +136,8 @@
 			const res = await fetch(url);
 			const { eur } = await res.json();
 
+         // 
+
 			this.outputValue = (this.inputValue * eur.nok).toFixed(2);
 
          // henter data og setter verdien til output til kursen ganget med ønsket antall
